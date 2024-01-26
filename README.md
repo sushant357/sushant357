@@ -4,7 +4,7 @@
 <br>
 <h2>About</h2>
 <p>With over a decade of experience in the field of UI development, I have honed my skills and expertise to craft seamless and visually appealing user interfaces. My journey started over 10 years ago, and I've been passionately dedicated to enhancing user experiences ever since.</p>
-<br>
+
 <h3>🛠️ My Skill Set Includes:</h3>
 
 **HTML, HTML5**: Building the foundation of web applications with structured and semantic markup.
@@ -13,17 +13,17 @@
 **jQuery**: Enhancing user interactions and animations for dynamic user experiences.
 **Angular**: Harnessing the power of this frontend framework to create dynamic and feature-rich single-page applications.
 **Express JS**: Leveraging this framework to build robust and efficient web applications.
-<br>
-**🔍 What Sets Me Apart:**
+<br><br>
+**🔍 What Sets Me Apart:**<br>
 My 2 years of experience as an Angular Developer has allowed me to dive deep into creating modern and responsive web applications that meet the highest industry standards. I am enthusiastic about implementing cutting-edge technologies and industry best practices to deliver top-notch solutions.
-<br>
-**🚀 Why Collaborate With Me:**
+<br><br>
+**🚀 Why Collaborate With Me:**<br>
 Throughout my career, I have consistently delivered high-quality work, meeting project goals and exceeding client expectations. My attention to detail, creative problem-solving, and commitment to staying updated with the latest industry trends have contributed to my success.
-<br>
+<br><br>
 Feel free to reach out to me if you're interested in discussing opportunities, sharing experiences, or simply engaging in meaningful conversations about the ever-evolving world of UI and Angular development.
-<br>
+<br><br>
 Looking forward to connecting with you!
-<br>
+<br><br>
 <img align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="40%" />
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=sushant357&label=Profile%20views&color=0e75b6&style=flat" alt="sushant357" />
