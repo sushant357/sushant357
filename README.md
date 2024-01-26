@@ -2,10 +2,27 @@
 <h3 align="center">Full Stack Web Developer | Angular | TypeScript | JavaScript | HTML5 | CSS3/SCSS/SASS | Express JS | MongoDB Enthusiast | Learning React</h3>
 <div><img src="https://media.licdn.com/dms/image/D4D16AQFaVG5i4P85Ag/profile-displaybackgroundimage-shrink_350_1400/0/1691685522314?e=1711584000&v=beta&t=oApZmke1kOQhoQyfoYYhJNDNe005FyysPxH1L-L_JMI" align="center" width="100%"></div>
 <br>
-<br>
 <h2>About</h2>
 <p>With over a decade of experience in the field of UI development, I have honed my skills and expertise to craft seamless and visually appealing user interfaces. My journey started over 10 years ago, and I've been passionately dedicated to enhancing user experiences ever since.</p>
 <br>
+<h3>🛠️ My Skill Set Includes:</h3>
+
+**HTML, HTML5**: Building the foundation of web applications with structured and semantic markup.
+**CSS, CSS3**: Styling and transforming UI elements to create engaging and interactive designs.
+**SCSS, SASS**: Employing advanced CSS preprocessing techniques to streamline development and maintenance.
+**jQuery**: Enhancing user interactions and animations for dynamic user experiences.
+**Angular**: Harnessing the power of this frontend framework to create dynamic and feature-rich single-page applications.
+**Express JS**: Leveraging this framework to build robust and efficient web applications.
+<br>
+**🔍 What Sets Me Apart:**
+My 2 years of experience as an Angular Developer has allowed me to dive deep into creating modern and responsive web applications that meet the highest industry standards. I am enthusiastic about implementing cutting-edge technologies and industry best practices to deliver top-notch solutions.
+<br>
+**🚀 Why Collaborate With Me:**
+Throughout my career, I have consistently delivered high-quality work, meeting project goals and exceeding client expectations. My attention to detail, creative problem-solving, and commitment to staying updated with the latest industry trends have contributed to my success.
+<br>
+Feel free to reach out to me if you're interested in discussing opportunities, sharing experiences, or simply engaging in meaningful conversations about the ever-evolving world of UI and Angular development.
+<br>
+Looking forward to connecting with you!
 <br>
 <img align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="40%" />
     <p align="left">
