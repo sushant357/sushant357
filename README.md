@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
+<img align="right" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif" width="50%" />
 <h1 align="center">Hi 👋, I'm Sushant Ramchandra Jadhav</h1>
     <h3 align="center">Full Stack Web Developer | Angular | TypeScript | JavaScript | HTML5 | CSS3/SCSS/SASS | Express JS | MongoDB Enthusiast | Learning React</h3>
     <p align="left">
